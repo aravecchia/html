@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  
+  
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ 
+   
+<!-- _________________________________________________HEAD_________________________________________________ -->
+<title> CyberOhm</title>
+<head>
+
+<!-- _____________________________________________CSS STYLE_________________________________________________ -->
+<style type=text/css>");
+h1 {font-size: 32px; font-family: arial; color: white}
+h2 {font-size: 24px; font-family: arial; color: white}
+h3 {font-size: 18px; font-family: arial; color: green}
+h4 {font-size: 16px; font-family: verdana; color: red}
+h5 {font-size: 12px;  font-family: arial; color: white;}
+h6 {font-size: 10px; font-family: courier; color: white}
+</style> 
+</head>
+
+
+
+<!-- _____________________________________________BODY_________________________________________________ -->
+<body bgcolor="black">
+
+<table cellpadding="0" cellspacing="2" border="0" align="center" width="1000" 
+style="border-color: white; font-family: monospace; color:#FFFFFF">
+
+<tr>
+<td width="1200" colspan="8" align="center">
+<img src="LogotipoCyberOhmPreto.png" width="80%" height="80%" alt="CyberOhm Robotics"/></td>
+</tr>
+<tr>
+<td width="800" colspan="8" align="center">
+<h3 align="center" style="font-family: arial, helvetica, sans-serif; color:grey">
+U can't HACK if U don't SLACK!!!
+</h3>
+	</td>
+	</table>
+	</tr>
+	 </tr>
+	 	<hr width="800" size="1" color="red"></hr>
+	 	
+	<b> 
+	<h3>
+	<table cellpadding="0" cellspacing="2" border="0" align="center" width="800" 
+style="border-color: white; font-family: arial; color:#FFFFFF">
+<tr width="800" align="center">
+<td width="200">
+TEMP
+</td>
+<td width="200">
+LUZ
+</td>
+<td width="200">
+JANELA
+</td>
+<td width="200">
+CARRO
+</td>
+</tr>
+<tr>
+<td colspan=4  width="820" heigh="90">
+<embed src="http://192.168.0.111" width="820" height="200" align="center">
+</td>
+</tr>
+</table>
+</h3>
+</b>
+<hr width="800" size="1" color="red"></hr>
+<h5 align=center style="color: white; font-family: courier, fixed, monospace;">
+Powered by GNU-Linux
+</h5>
+</body>
+</html>
+
